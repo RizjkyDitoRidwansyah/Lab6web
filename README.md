@@ -24,3 +24,8 @@
 ```
 # TUGAS PRAKTIKUM 6
 ### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap
+![01](https://github.com/RizjkyDitoRidwansyah/Lab6web/assets/116090827/b9288464-82fc-417c-90f5-ebf9538408c4)
+
+## Hasilnya
+![Hasil](https://github.com/RizjkyDitoRidwansyah/Lab6web/assets/116090827/42c87c50-68e2-409c-877d-9262b2f5a0db)
+
