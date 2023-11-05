@@ -22,3 +22,5 @@
       crossorigin="anonymous"
     ></script>
 ```
+# TUGAS PRAKTIKUM 6
+### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap
